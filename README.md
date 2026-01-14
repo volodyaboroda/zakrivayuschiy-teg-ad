@@ -1,0 +1,1 @@
+git@github.com:volodyaboroda/zakrivayuschiy-teg-ad.git
